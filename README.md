@@ -4,7 +4,7 @@ Those are my Python Intern tasks. Hope they are not so bad. :)
 
 ## Task 1 - hack_power.py
 
-Function calculates power of hack provided by brave hacker used to hack reality and fight corporations.
+Function hack_calculator calculates power of hack provided by brave hacker used to hack reality and fight corporations.
 Function takes 3 parametrs:
 
 hack: type string - used to calculate hack power from letters in it. 
