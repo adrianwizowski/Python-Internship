@@ -1,7 +1,7 @@
 from collections import OrderedDict
 from operator import itemgetter
 
-def hack_calculator(hack, phrases, letters):
+def hack_calculator(hack, phrases = {'baa': 20, 'ba': 10}, letters= {'a': 1, 'b':2, 'c':3}):
     '''Function calculates power of hack provided by brave hacker used to hack reality and fight corporations.
     Function takes 3 parametrs:
     hack: type string - used to calculate hack power from letters in it. Eg. hack = 'baaca'.
